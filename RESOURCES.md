@@ -10,6 +10,11 @@ https://github.com/RailsApps/rails-bootstrap
 ## rspec documentation
 https://github.com/rspec/rspec-rails
 
+
+## Webpack Documentation
+https://github.com/rails/webpacker
+
+
 ## Webpack Tutorials
 https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 
