@@ -3,6 +3,9 @@
 ## TODO
 Research warning: webpack-dev-server@3.8.0" has unmet peer dependency "webpack@^4.0.0".
 
+### Stack Overflow Error
+https://stackoverflow.com/questions/58065428/vanilla-rails-6-0-error-command-webpack-not-found
+
 ## Boostrap documentation
 https://github.com/RailsApps/rails-bootstrap
 
