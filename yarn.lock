@@ -956,6 +956,11 @@ has@^1.0.1:
   dependencies:
     function-bind "^1.1.1"
 
+help@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/help/-/help-3.0.2.tgz#96e190d4a0a453b89c2cb4b05ab38e3a8f9fdadd"
+  integrity sha1-luGQ1KCkU7icLLSwWrOOOo+f2t0=
+
 hpack.js@^2.1.6:
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/hpack.js/-/hpack.js-2.1.6.tgz#87774c0949e513f42e84575b3c45681fade2a0b2"
